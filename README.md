@@ -1,7 +1,7 @@
 ![](Images/titanic2.png) <br/>
 # The Titanic Challenge
 
-My Solution to the Titanic Kaggle Challenge
+My Solution to the Titanic Kaggle Challenge will be presented as a Tutorial. Care will be taken to provide extensive explaination and guidance using both markdown and commenting. Several approaches to the problem will be presented in addition to pros and cons of each, in addition to discussions on subjectivity and bias when dealing with incomplete data.
 
 
 * <b><ins>This solution is still in progress</ins></b>
