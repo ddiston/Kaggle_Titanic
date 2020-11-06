@@ -5,10 +5,11 @@ My Solution to the Titanic Kaggle Challenge will be presented as a Tutorial. Car
 
 
 * <b><ins>This solution is still in progress</ins></b>
-
+    * Preprocessing, EDA, and Visualization are complete
+    * Modeling is in progress
 <br/><br/>
 
-## Progress So Far
+## Overview
 
 I will be breaking this challenge up between two different notebooks:
 * This first notebook will focus on exploration and visualization of the data, including preprocessing the data to remove missing values, and feature engineer
