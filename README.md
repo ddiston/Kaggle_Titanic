@@ -6,7 +6,7 @@ My Solution to the Titanic Kaggle Challenge will be presented as a Tutorial. Car
 
 * <b><ins>This solution is still in progress</ins></b>
     * Preprocessing, EDA, and Visualization are complete
-    * Modeling is in progress
+    * Modeling steps in progress
 <br/><br/>
 
 ## Overview
