@@ -45,6 +45,8 @@ Following both the **EDA** and **Preprocessing** steps, visuals and preprocessed
 
 ### Sample Visualizations
 
+> All visualizations can be found in the [images](Images/) folder.
+
 ![](Images/Survival_By_Class_and_Gender.png)
 
 --------------
