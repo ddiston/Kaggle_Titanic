@@ -43,4 +43,6 @@ Following both the **EDA** and **Preprocessing** steps, visuals and preprocessed
 </font>
 
 ![](Images/Survival_By_Class_and_Gender.png)
+
+--------------
 ![](Images/Passenger_Gender_and_Embarkation_Distribution.png)
