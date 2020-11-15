@@ -43,7 +43,7 @@ Following both the **EDA** and **Preprocessing** steps, visuals and preprocessed
 </font>
 <br/><br/>
 
-> ### Sample Visualizations
+### Sample Visualizations
 
 ![](Images/Survival_By_Class_and_Gender.png)
 
