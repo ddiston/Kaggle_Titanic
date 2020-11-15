@@ -26,7 +26,7 @@ I will be breaking this challenge up between two different notebooks:
 >* Exploration of the Variables<br/><font size = '1'>
 >   * Datatype
 >   * Range
->   * Min/Max/Mean
+>   * Min/Max/Mean/Std
 >   * Unique Values</font>
 >   * Visualization of Data Distributions
     
