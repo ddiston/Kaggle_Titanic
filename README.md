@@ -41,6 +41,9 @@ Following both the **EDA** and **Preprocessing** steps, visuals and preprocessed
     * matplotlib
     * scikit-learn 
 </font>
+<br/><br/>
+
+> ### Sample Visualizations
 
 ![](Images/Survival_By_Class_and_Gender.png)
 
